@@ -1,0 +1,55 @@
+body {
+  background-color: #30475e;
+  color: #ffffff;
+}
+
+h2 {
+  margin: 0;
+}
+p {
+  font-size: 0.8rem;
+}
+hr {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  border-top: 0.25px solid white;
+  width: 30%;
+}
+.box {
+  width: 320px;
+  height: 600px;
+  background-color: #222831;
+  border-radius: 50px;
+  border: white 10px solid;
+  margin: 75px auto;
+  padding: 10px;
+}
+
+.notch {
+  background-color: #ffffff;
+  width: 160px;
+  height: 25px;
+  border-radius: 75px;
+  position: absolute;
+  top: 75px;
+  right: 640px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  text-align: center;
+}
+.center {
+  text-align: center;
+  margin-top: 45px;
+}
+.mid {
+  margin-top: 25px;
+}
